@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  helpers:
+    button:
+      add: "Añadir %{model}"
+      evaluate: "Evaluar %{model}"
+    submit:
+      create: "Crear %{model}"
+      update: "Guardar %{model}"
